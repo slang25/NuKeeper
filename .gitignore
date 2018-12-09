@@ -42,3 +42,8 @@ _ReSharper*/
 # Custom
 NuKeeper/Properties/launchSettings.json
 *.orig
+
+# Distribution artifacts
+dist/
+publish/
+warp-packer
